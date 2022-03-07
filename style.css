@@ -35,7 +35,8 @@ body{
   text-align: center;
 }
 #clock{
-  align-items: center;  
+  align-items: center;
+  justify-content: center;  
   display: flex;  
   /* height: auto; */
  
